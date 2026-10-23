@@ -1,0 +1,1 @@
+"""Impactathon backend application package."""
